@@ -57624,7 +57624,7 @@ s.l(0,"x",this.a)
 s.l(0,"y",this.b)
 return s}}
 A.AU.prototype={
-a2(a,b){return new A.rr(B.Hg,"Flutter Demo",A.ade(null,B.nY),null)}}
+a2(a,b){return new A.rr(B.Hg,"Foody",A.ade(null,B.nY),null)}}
 A.rG.prototype={
 aW(){var s=null
 return new A.vW(A.b([],t.zO),new A.ey(0,0,5,-1),A.Z4(s),A.Z4(s),A.Z4(s),A.Z4("level"),new A.rk(s),B.l)}}
@@ -57676,38 +57676,38 @@ p.r.sdJ(0,B.c.i(b.b))
 p.x.sdJ(0,B.c.i(b.c))
 p.au(new A.a31())},
 a2J(){var s,r,q=this,p=q.Q
-if((p==null?null:p.b)==null)return
-p=q.e
-s=p.b
-r=p.c
-if(s<r){p.b=0
-q.au(new A.a2X())
-return}p.b=s-r
-q.au(new A.a2Y())},
-a4J(){var s,r,q=this,p=q.Q
-if((p==null?null:p.b)==null)return
-s=q.e
-r=s.b
-if(r>p.b){s.b=1024
-q.au(new A.a34())
-return}s.b=r+s.c
-q.au(new A.a35())},
-a4Z(){var s,r,q=this,p=q.Q
 if((p==null?null:p.a)==null)return
 p=q.e
 s=p.a
 r=p.c
 if(s<r){p.a=0
-q.au(new A.a36())
+q.au(new A.a2X())
 return}p.a=s-r
-q.au(new A.a37())},
-ZV(){var s,r,q=this,p=q.Q
+q.au(new A.a2Y())},
+a4J(){var s,r,q=this,p=q.Q
 if((p==null?null:p.a)==null)return
 s=q.e
 r=s.a
 if(r>p.a){s.a=1024
-q.au(new A.a2P())
+q.au(new A.a34())
 return}s.a=r+50
+q.au(new A.a35())},
+a4Z(){var s,r,q=this,p=q.Q
+if((p==null?null:p.b)==null)return
+p=q.e
+s=p.b
+r=p.c
+if(s<r){p.b=0
+q.au(new A.a36())
+return}p.b=s-r
+q.au(new A.a37())},
+ZV(){var s,r,q=this,p=q.Q
+if((p==null?null:p.b)==null)return
+s=q.e
+r=s.b
+if(r>p.b){s.b=1024
+q.au(new A.a2P())
+return}s.b=r+s.c
 q.au(new A.a2Q())},
 a3t(a){var s=this
 s.e=a
